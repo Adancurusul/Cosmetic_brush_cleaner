@@ -35,8 +35,8 @@
 
 ## 产品总体设计
 
-### [建模部分]()
+### [建模部分](https://github.com/Adancurusul/Cosmetic_brush_cleaner/tree/master/%E5%BB%BA%E6%A8%A1%E9%83%A8%E5%88%86)
 
-### 嵌入式软件部分
+### [嵌入式软件部分](https://github.com/Adancurusul/Cosmetic_brush_cleaner/tree/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E9%83%A8%E5%88%86)
 
-### 硬件电路设计部分
+### [硬件电路设计部分](https://github.com/Adancurusul/Cosmetic_brush_cleaner/tree/master/%E7%A1%AC%E4%BB%B6%E7%94%B5%E8%B7%AF%E9%83%A8%E5%88%86)
